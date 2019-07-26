@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btnlogin">Login</string>
+    <string name="login">LOGIN</string>
+    <string name="pass">Password</string>
+    <string name="user">User</string>
+    <string name="registered"> Registered ?</string>
+    <string name="notregistered">Not Registered</string>
+    <string name="btndk">Register</string>
+    <string name="cfpass">Confirm Password</string>
+    <string name="tvlogin">Login</string>
+    <string name="dklogin">Register</string>
+    <string name="welcome">Welcome ^^</string>
+</resources>

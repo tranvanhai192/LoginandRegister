@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Welcome_Activity">
+    <TextView
+        android:textColor="@color/login"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="@string/welcome"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/back_home"
+        android:text="Back Home"
+        android:textColor="@color/black"
+        android:background="@color/login"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

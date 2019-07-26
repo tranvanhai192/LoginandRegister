@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btnlogin">Đăng nhập</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="pass">Mật khẩu người dùng</string>
+    <string name="user">Tài khoản người dùng</string>
+    <string name="registered">Đăng ký?</string>
+    <string name="notregistered">Không đăng ký?</string>
+    <string name="btndk">Đăng Ký</string>
+    <string name="cfpass">Xác nhận mật khẩu</string>
+    <string name="tvlogin">Đăng nhập</string>
+    <string name="dklogin">Đăng Ký</string>
+    <string name="welcome">Xin chào ^^</string>
+</resources>
