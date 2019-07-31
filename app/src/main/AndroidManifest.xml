@@ -18,7 +18,7 @@
 
         </activity>
         <activity android:name=".Welcome_Activity" >
-
+            
         </activity>
         <activity android:name=".MainActivity">
 
